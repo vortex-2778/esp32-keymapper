@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ESP32 Key Mapper</string>
+    <string name="accessibility_description">Replays the button gestures received from the ESP32 controller as touches on the screen. Used for game key mapping.</string>
+    <string name="notification_channel">Controller connection</string>
+    <string name="notification_title">ESP32 Key Mapper</string>
+    <string name="notification_text">Waiting for controller</string>
+</resources>
